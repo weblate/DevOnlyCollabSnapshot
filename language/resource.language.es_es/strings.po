@@ -6,8 +6,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-06-13 11:29+0000\n"
-"Last-Translator: Chris Bertrand <chris@kittmaster.com>\n"
+"PO-Revision-Date: 2025-06-17 22:51+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/"
 "kodi-add-ons-skins/skin-madnox/es_es/>\n"
 "Language: es_es\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.4\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml /16x9/Custom_1100_TextViewer.xml /16x9/script-skin_helper_service-ColorPicker.xml
 msgctxt "#31000"
@@ -618,242 +618,242 @@ msgstr "Madera"
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31119"
 msgid "Wrinkles"
-msgstr ""
+msgstr "Arrugas"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31120"
 msgid "Center"
-msgstr ""
+msgstr "Centro"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31121"
 msgid "Icons wide"
-msgstr ""
+msgstr "Ancho de iconos"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31122"
 msgid "Big icons wide"
-msgstr ""
+msgstr "Ancho de iconos grandes"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31123"
 msgid "Logo"
-msgstr ""
+msgstr "Logotipo"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31124"
 msgid "Required"
-msgstr ""
+msgstr "Requerido"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31125"
 msgid "Recommended"
-msgstr ""
+msgstr "Recomendado"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31126"
 msgid "Optional"
-msgstr ""
+msgstr "Opcional"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31127"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31128"
 msgid "Dialog"
-msgstr ""
+msgstr "Mensaje"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31129"
 msgid "style"
-msgstr ""
+msgstr "estilo"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31130"
 msgid "Square"
-msgstr ""
+msgstr "Cuadrado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31131"
 msgid "Emboss"
-msgstr ""
+msgstr "Realzar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31132"
 msgid "texture"
-msgstr ""
+msgstr "textura"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31133"
 msgid "Pattern"
-msgstr ""
+msgstr "Patrón"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31134"
 msgid "Gradient"
-msgstr ""
+msgstr "Gradiente"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31135"
 msgid "Brushed"
-msgstr ""
+msgstr "Cepillado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31136"
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31137"
 msgid "Subtext"
-msgstr ""
+msgstr "Subtexto"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31138"
 msgid "Focus text"
-msgstr ""
+msgstr "Texto seleccionado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31139"
 msgid "List separator"
-msgstr ""
+msgstr "Separador de lista"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31140"
 msgid "White media flags"
-msgstr ""
+msgstr "Banderas de contenido blancas"
 
 #: 31140 /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31141"
 msgid "System bar"
-msgstr ""
+msgstr "Barra de sistema"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31142"
 msgid "Submenu bar"
-msgstr ""
+msgstr "Barra de submenú"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31143"
 msgid "RSS bar"
-msgstr ""
+msgstr "Barra de RSS"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31144"
 msgid "layout"
-msgstr ""
+msgstr "disposición"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31145"
 msgid "Effects"
-msgstr ""
+msgstr "Efectos"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31146"
 msgid "Leaves"
-msgstr ""
+msgstr "Hojas"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31147"
 msgid "Confetti"
-msgstr ""
+msgstr "Confeti"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31148"
 msgid "Valentine"
-msgstr ""
+msgstr "San Valentín"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31149"
 msgid "Easter"
-msgstr ""
+msgstr "Pascua"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31150"
 msgid "Concrete"
-msgstr ""
+msgstr "Cemento"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31151"
 msgid "Media menu"
-msgstr ""
+msgstr "Menú de contenido"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31152"
 msgid "Focus icon"
-msgstr ""
+msgstr "Icono seleccionado"
 
 #: /16x9/Variables.xml
 msgctxt "#31153"
 msgid "PVR channels"
-msgstr ""
+msgstr "Canales PVR"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31154"
 msgid "Movies and TV shows"
-msgstr ""
+msgstr "Películas y programas de TV"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31155"
 msgid "Video and music add-ons"
-msgstr ""
+msgstr "Addons de vídeo y música"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31156"
 msgid "Weather icon"
-msgstr ""
+msgstr "Icono de clima"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31157"
 msgid "Nofocus text"
-msgstr ""
+msgstr "Texto no seleccionado"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31158"
 msgid "Nofocus icon"
-msgstr ""
+msgstr "Icono no seleccionado"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31159"
 msgid "Now playing progress"
-msgstr ""
+msgstr "Progreso reproduciendo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31160"
 msgid "Top bar / Main menu bars"
-msgstr ""
+msgstr "Barra superior / Barras del menú principal"
 
 #: 31160 /16x9/Includes_CustomSelect.xml
 msgctxt "#31161"
 msgid "Extended info"
-msgstr ""
+msgstr "Información extendida"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31162"
 msgid "Character art"
-msgstr ""
+msgstr "Arte de caracteres"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31163"
 msgid "Prefer info"
-msgstr ""
+msgstr "Preferir información"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31164"
 msgid "Blur background"
-msgstr ""
+msgstr "Difuminar fondo"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31165"
 msgid "Clear art"
-msgstr ""
+msgstr "Clear art"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31166"
 msgid "Replace play with cinema mode"
-msgstr ""
+msgstr "Reemplazar reproducir con modo cine"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31167"
