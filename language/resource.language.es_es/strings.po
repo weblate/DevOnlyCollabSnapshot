@@ -6,850 +6,854 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: "
-"Language-Team: \n"
-"Language: es_ES\n"
+"PO-Revision-Date: 2025-06-17 22:51+0000\n"
+"Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
+"Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/"
+"kodi-add-ons-skins/skin-madnox/es_es/>\n"
+"Language: es_es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.4.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12.1\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml /16x9/Custom_1100_TextViewer.xml /16x9/script-skin_helper_service-ColorPicker.xml
 msgctxt "#31000"
 msgid "Page"
-msgstr ""
+msgstr "Página"
 
 #: /16x9/DialogAddonSettings.xml /16x9/DialogMediaSource.xml /16x9/Includes_CommonObjects.xml /16x9/Variables.xml /16x9/DialogFavourites.xml /16x9/Includes_Dialogs.xml /16x9/Custom_1110_CustomSelectConatainer.xml /16x9/DialogSettings.xml /16x9/DialogSubtitles.xml
 msgctxt "#31001"
 msgid "Items"
-msgstr ""
+msgstr "Elementos"
 
 #: /16x9/Home.xml /16x9/Variables.xml /16x9/Custom_1111_Topbar.xml
 msgctxt "#31002"
 msgid "Now playing"
-msgstr ""
+msgstr "Reproduciendo"
 
 #: /16x9/SmartPlaylistEditor.xml
 msgctxt "#31003"
 msgid "Order"
-msgstr ""
+msgstr "Orden"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31004"
 msgid "Weather background"
-msgstr ""
+msgstr "Fondo de clima"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31005"
 msgid "shadow"
-msgstr ""
+msgstr "sombra"
 
 #: /16x9/Variables_Themes.xml
 msgctxt "#31006"
 msgid "Flat"
-msgstr ""
+msgstr "Plano"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31007"
 msgid "Single image"
-msgstr ""
+msgstr "Imágen única"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31008"
 msgid "Multi image"
-msgstr ""
+msgstr "Imagen multiple"
 
 #: /16x9/Includes_MediaMenu.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31009"
 msgid "Music discart fallback"
-msgstr ""
+msgstr "Arte de disco por defecto"
 
 #: /16x9/SmartPlaylistEditor.xml
 msgctxt "#31010"
 msgid "Set the type and add rules to create a smart playlist. These playlists are dynamic and include all media items from your database which apply to your chosen rules."
 msgstr ""
+"Ajusta el tipo y añade reglas para crear una lista inteligente. Estas listas "
+"son dinámicas e incluyen todos los contenido de la colección que cumplan las "
+"reglas escogidas."
 
 #: /16x9/Variables.xml
 msgctxt "#31011"
 msgid "Returning"
-msgstr ""
+msgstr "Volviendo"
 
 #: /16x9/Variables.xml
 msgctxt "#31012"
 msgid "Ended"
-msgstr ""
+msgstr "Terminado"
 
 #: /16x9/Variables.xml
 msgctxt "#31013"
 msgid "TBD"
-msgstr ""
+msgstr "Indeterminado"
 
 #: /16x9/Variables.xml
 msgctxt "#31014"
 msgid "New series"
-msgstr ""
+msgstr "Nuevas series"
 
 #: /16x9/Variables.xml
 msgctxt "#31015"
 msgid "Finale"
-msgstr ""
+msgstr "Final"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31016"
 msgid "Smaller pop-up notifications"
-msgstr ""
+msgstr "Notificaciones emergentes pequeñas"
 
 #: /16x9/Home.xml /16x9/SkinSettings.xml
 msgctxt "#31017"
 msgid "Edit main menu"
-msgstr ""
+msgstr "Editar menú principal"
 
 #: /16x9/Home.xml /16x9/SkinSettings.xml
 msgctxt "#31018"
 msgid "Reset main menu"
-msgstr ""
+msgstr "Restablecer menú principal"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31019"
 msgid "Show scroll letter"
-msgstr ""
+msgstr "Mostrar letra al desplazar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31020"
 msgid "Dim screen on dialog popup"
-msgstr ""
+msgstr "Atenuar pantalla en mensaje emergente"
 
 #: /16x9/Home.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31021"
 msgid "Area"
-msgstr ""
+msgstr "Área"
 
 #: /16x9/SettingsSystemInfo.xml
 msgctxt "#31022"
 msgid "CPU"
-msgstr ""
+msgstr "CPU"
 
 #: /16x9/SettingsSystemInfo.xml
 msgctxt "#31023"
 msgid "Memory"
-msgstr ""
+msgstr "Memoria"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31024"
 msgid "Customise shortcut menu"
-msgstr ""
+msgstr "Personalizar menú de atajos"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31025"
 msgid "View options"
-msgstr ""
+msgstr "Opciones de vista"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31026"
 msgid "Predictive text for virtual keyboard"
-msgstr ""
+msgstr "Texto predicitivo para teclado virtual"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31027"
 msgid "Global override"
-msgstr ""
+msgstr "Cambio global"
 
 #: /16x9/SkinSettings.xml /16x9/Custom_1110_Colors.xml
 msgctxt "#31028"
 msgid "Manage"
-msgstr ""
+msgstr "Gestionar"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml /16x9/SkinSettings.xml
 msgctxt "#31029"
 msgid "Video now playing background"
-msgstr ""
+msgstr "Fondo de vídeo reproduciendose"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml /16x9/SkinSettings.xml
 msgctxt "#31030"
 msgid "Music now playing background"
-msgstr ""
+msgstr "Fondo de música reproduciendose"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31031"
 msgid "Enable day and night colour themes"
-msgstr ""
+msgstr "Activar temas diurno y nocturno"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31032"
 msgid "Theme for day time"
-msgstr ""
+msgstr "Tema según la hora del día"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31033"
 msgid "Theme for night time"
-msgstr ""
+msgstr "Tema para noche"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31034"
 msgid "Weather icons"
-msgstr ""
+msgstr "Iconos de clima"
 
 #: /16x9/Variables.xml
 msgctxt "#31035"
 msgid "Extra fanart"
-msgstr ""
+msgstr "Fanart extra"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31036"
 msgid "Fallback"
-msgstr ""
+msgstr "Por defecto"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31037"
 msgid "Animated posters"
-msgstr ""
+msgstr "Carteles animados"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31038"
 msgid "Animated background"
-msgstr ""
+msgstr "Fondo animado"
 
 #: /16x9/Home.xml /16x9/script-skinshortcuts.xml /16x9/SkinSettings.xml
 msgctxt "#31039"
 msgid "Widgets"
-msgstr ""
+msgstr "Widgets"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31040"
 msgid "Settings menu"
-msgstr ""
+msgstr "Menú de ajustes"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31041"
 msgid "Main menu"
-msgstr ""
+msgstr "Menú principal"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml /16x9/Custom_1110_Colors.xml
 msgctxt "#31042"
 msgid "Top bar"
-msgstr ""
+msgstr "Barra superior"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31043"
 msgid "Fixed list"
-msgstr ""
+msgstr "Lista fija"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31044"
 msgid "Artwork"
-msgstr ""
+msgstr "Arte"
 
 #: /16x9/Custom_1110_Colors.xml /16x9/SkinSettings.xml /16x9/Variables_Colors.xml
 msgctxt "#31045"
 msgid "Global default"
-msgstr ""
+msgstr "Por defecto global"
 
 #: /16x9/Custom_1111_Topbar.xml
 msgctxt "#31046"
 msgid "Item Count"
-msgstr ""
+msgstr "Número de Elementos"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml /16x9/Custom_1110_Colors.xml
 msgctxt "#31047"
 msgid "Floor"
-msgstr ""
+msgstr "Suelo"
 
 #: /16x9/SkinSettings.xml /16x9/Variables_Themes.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31048"
 msgid "Shadow"
-msgstr ""
+msgstr "Sombra"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31049"
 msgid "Highlight"
-msgstr ""
+msgstr "Destacado"
 
 #: /16x9/script-skinshortcuts.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31050"
 msgid "Info line"
-msgstr ""
+msgstr "Línea de info"
 
 #: /16x9/Includes_MediaMenu.xml /16x9/SkinSettings.xml
 msgctxt "#31051"
 msgid "Texture"
-msgstr ""
+msgstr "Textura"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31052"
 msgid "Coloured"
-msgstr ""
+msgstr "Coloreado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31053"
 msgid "Country icons"
-msgstr ""
+msgstr "Iconos de país"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31054"
 msgid "Default backgrounds"
-msgstr ""
+msgstr "Fondos por defecto"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31055"
 msgid "Weather fanart"
-msgstr ""
+msgstr "Fanart de clima"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31056"
 msgid "Panel"
-msgstr ""
+msgstr "Panel"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31057"
 msgid "Installed"
-msgstr ""
+msgstr "Instalado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31058"
 msgid "Not installed"
-msgstr ""
+msgstr "No instalado"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31059"
 msgid "Layout"
-msgstr ""
+msgstr "Disposición"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31060"
 msgid "Language flags"
-msgstr ""
+msgstr "Banderas de idioma"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml /16x9/script-skinshortcuts.xml
 msgctxt "#31061"
 msgid "Icon"
-msgstr ""
+msgstr "Icono"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31062"
 msgid "Coloured icons"
-msgstr ""
+msgstr "Iconos coloreados"
 
 #: /16x9/Includes_MediaFlags.xml
 msgctxt "#31063"
 msgid "On air"
-msgstr ""
+msgstr "En directo"
 
 #: /16x9/Includes_MediaFlags.xml
 msgctxt "#31064"
 msgid "Last aired"
-msgstr ""
+msgstr "Último emitido"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31065"
 msgid "Visualisation settings"
-msgstr ""
+msgstr "Ajustes de visualización"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31066"
 msgid "Choose presets"
-msgstr ""
+msgstr "Escoger preestablecidos"
 
 #: /16x9/DialogSubtitles.xml
 msgctxt "#31067"
 msgid "Local subtitle available"
-msgstr ""
+msgstr "Subtítulos locales disponibles"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31068"
 msgid "Lyrics add-on"
-msgstr ""
+msgstr "Add-on de letras"
 
 #: /16x9/Custom_1117_MusicVisSettings.xml
 msgctxt "#31069"
 msgid "Lyrics add-on settings"
-msgstr ""
+msgstr "Ajustes de add-on de letras"
 
 #: /16x9/View_507_FanartList.xml
 msgctxt "#31070"
 msgid "Fanart list"
-msgstr ""
+msgstr "Lista de fanart"
 
 #: /16x9/View_700_RightList.xml
 msgctxt "#31071"
 msgid "Right list"
-msgstr ""
+msgstr "Lista derecha"
 
 #: /16x9/DialogFullScreenInfo.xml
 msgctxt "#31072"
 msgid "Premiered"
-msgstr ""
+msgstr "Estrenado"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31073"
 msgid "Video decoder"
-msgstr ""
+msgstr "Decodificador de vídeo"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31074"
 msgid "Pixel format"
-msgstr ""
+msgstr "Formato de píxel"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31075"
 msgid "Decoding"
-msgstr ""
+msgstr "Decodificando"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31076"
 msgid "Movie set cover background"
-msgstr ""
+msgstr "Fondo de portada de saga de películas"
 
 #: /16x9/DialogPlayerProcessInfo.xml
 msgctxt "#31077"
 msgid "Signal"
-msgstr ""
+msgstr "Señal"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31078"
 msgid "Furniture"
-msgstr ""
+msgstr "Mobiliario"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31079"
 msgid "Prefer plot outline"
-msgstr ""
+msgstr "Preferir esquema de la trama"
 
 #: /16x9/MyVideoNav.xml
 msgctxt "#31080"
 msgid "Edit Nodes"
-msgstr ""
+msgstr "Editar Nodos"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31081"
 msgid "Media menu buttons"
-msgstr ""
+msgstr "Botones del menú de contenido"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31082"
 msgid "Info dialogs"
-msgstr ""
+msgstr "Mensajes de información"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31083"
 msgid "Favourites script"
-msgstr ""
+msgstr "Scripts favoritos"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31084"
 msgid "Case"
-msgstr ""
+msgstr "Caso"
 
 #: /16x9/Custom_1127_BackgroundCustomizer.xml
 msgctxt "#31085"
 msgid "Overlay"
-msgstr ""
+msgstr "Capa"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31086"
 msgid "Video playlist"
-msgstr ""
+msgstr "Lista de vídeo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31087"
 msgid "Embuary info"
-msgstr ""
+msgstr "Info de Embuary"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31088"
 msgid "Trakt"
-msgstr ""
+msgstr "Trakt"
 
 #: /16x9/MyVideoNav.xml
 msgctxt "#31089"
 msgid "Add node"
-msgstr ""
+msgstr "Añadir nodo"
 
 #: /16x9/MyWeather.xml
 msgctxt "#31090"
 msgid "Daily"
-msgstr ""
+msgstr "Diario"
 
 #: /16x9/MyWeather.xml
 msgctxt "#31091"
 msgid "Map"
-msgstr ""
+msgstr "Mapa"
 
 #: /16x9/MyWeather.xml
 msgctxt "#31092"
 msgid "Overview"
-msgstr ""
+msgstr "Vistazo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31093"
 msgid "Backup"
-msgstr ""
+msgstr "Respaldo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31094"
 msgid "Restore"
-msgstr ""
+msgstr "Restaurar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31095"
 msgid "Hide view options"
-msgstr ""
+msgstr "Ocultar opciones de vista"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31096"
 msgid "Hide view options & types"
-msgstr ""
+msgstr "Ocultar opciones de vista y tipos"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31097"
 msgid "Hide menus"
-msgstr ""
+msgstr "Ocultar menús"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31098"
 msgid "Kiosk mode"
-msgstr ""
+msgstr "Modo kiosko"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31099"
 msgid "Dark"
-msgstr ""
+msgstr "Oscuro"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31100"
 msgid "Light"
-msgstr ""
+msgstr "Claro"
 
 #: /16x9/script-skinshortcuts.xml /16x9/SkinSettings.xml
 msgctxt "#31101"
 msgid "Submenu"
-msgstr ""
+msgstr "Submenú"
 
 #: /16x9/script-skinshortcuts.xml /16x9/variables.xml
 msgctxt "#31102"
 msgid "Select live background"
-msgstr ""
+msgstr "Seleccionar fondo en vivo"
 
 #: /16x9/script-skinshortcuts.xml /16x9/SkinSettings.xml /16x9/variables.xml
 msgctxt "#31103"
 msgid "Live background"
-msgstr ""
+msgstr "Fondo en vivo"
 
 #: /16x9/DialogSubtitles.xml
 msgctxt "#31104"
 msgid "Local subtitles available"
-msgstr ""
+msgstr "Subtítulos locales disponibles"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31105"
 msgid "colour"
-msgstr ""
+msgstr "color"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31106"
 msgid "Global"
-msgstr ""
+msgstr "Global"
 
 #: /16x9/Custom_1110_CustomSelectContainer.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31107"
 msgid "background"
-msgstr ""
+msgstr "fondo"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31108"
 msgid "Disc art"
-msgstr ""
+msgstr "Arte disco"
 
 #: /16x9/DialogVideoInfo.xml /16x9/DialogMusicInfo.xml
 msgctxt "#31109"
 msgid "Get art"
-msgstr ""
+msgstr "Obtener arte"
 
 #: /16x9/DialogVideoInfo.xml
 msgctxt "#31110"
 msgid "Similar"
-msgstr ""
+msgstr "Similar"
 
 #: /16x9/DialogVideoInfo.xml
 msgctxt "#31111"
 msgid "Budget"
-msgstr ""
+msgstr "Presupuesto"
 
 #: /16x9/DialogVideoInfo.xml
 msgctxt "#31112"
 msgid "Revenue"
-msgstr ""
+msgstr "Ingresos"
 
 #: /16x9/DialogVideoInfo.xml
 msgctxt "#31113"
 msgid "Awards"
-msgstr ""
+msgstr "Premios"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31114"
 msgid "Carbon"
-msgstr ""
+msgstr "Carbón"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31115"
 msgid "Pixels"
-msgstr ""
+msgstr "Píxeles"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31116"
 msgid "Steel plate"
-msgstr ""
+msgstr "Placa de acero"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31117"
 msgid "Wallpaper"
-msgstr ""
+msgstr "Papel tapiz"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31118"
 msgid "Wood"
-msgstr ""
+msgstr "Madera"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31119"
 msgid "Wrinkles"
-msgstr ""
+msgstr "Arrugas"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31120"
 msgid "Center"
-msgstr ""
+msgstr "Centro"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31121"
 msgid "Icons wide"
-msgstr ""
+msgstr "Ancho de iconos"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31122"
 msgid "Big icons wide"
-msgstr ""
+msgstr "Ancho de iconos grandes"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31123"
 msgid "Logo"
-msgstr ""
+msgstr "Logotipo"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31124"
 msgid "Required"
-msgstr ""
+msgstr "Requerido"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31125"
 msgid "Recommended"
-msgstr ""
+msgstr "Recomendado"
 
 #: /16x9/Custom_1114_Addons.xml
 msgctxt "#31126"
 msgid "Optional"
-msgstr ""
+msgstr "Opcional"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31127"
 msgid "RSS"
-msgstr ""
+msgstr "RSS"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31128"
 msgid "Dialog"
-msgstr ""
+msgstr "Mensaje"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31129"
 msgid "style"
-msgstr ""
+msgstr "estilo"
 
 #: /16x9/Variables.xml /16x9/SkinSettings.xml
 msgctxt "#31130"
 msgid "Square"
-msgstr ""
+msgstr "Cuadrado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31131"
 msgid "Emboss"
-msgstr ""
+msgstr "Realzar"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31132"
 msgid "texture"
-msgstr ""
+msgstr "textura"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31133"
 msgid "Pattern"
-msgstr ""
+msgstr "Patrón"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31134"
 msgid "Gradient"
-msgstr ""
+msgstr "Gradiente"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31135"
 msgid "Brushed"
-msgstr ""
+msgstr "Cepillado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31136"
 msgid "Text"
-msgstr ""
+msgstr "Texto"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31137"
 msgid "Subtext"
-msgstr ""
+msgstr "Subtexto"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31138"
 msgid "Focus text"
-msgstr ""
+msgstr "Texto seleccionado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31139"
 msgid "List separator"
-msgstr ""
+msgstr "Separador de lista"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31140"
 msgid "White media flags"
-msgstr ""
+msgstr "Banderas de contenido blancas"
 
 #: 31140 /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31141"
 msgid "System bar"
-msgstr ""
+msgstr "Barra de sistema"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31142"
 msgid "Submenu bar"
-msgstr ""
+msgstr "Barra de submenú"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31143"
 msgid "RSS bar"
-msgstr ""
+msgstr "Barra de RSS"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31144"
 msgid "layout"
-msgstr ""
+msgstr "disposición"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31145"
 msgid "Effects"
-msgstr ""
+msgstr "Efectos"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31146"
 msgid "Leaves"
-msgstr ""
+msgstr "Hojas"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31147"
 msgid "Confetti"
-msgstr ""
+msgstr "Confeti"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31148"
 msgid "Valentine"
-msgstr ""
+msgstr "San Valentín"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31149"
 msgid "Easter"
-msgstr ""
+msgstr "Pascua"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables_Themes.xml
 msgctxt "#31150"
 msgid "Concrete"
-msgstr ""
+msgstr "Cemento"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31151"
 msgid "Media menu"
-msgstr ""
+msgstr "Menú de contenido"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31152"
 msgid "Focus icon"
-msgstr ""
+msgstr "Icono seleccionado"
 
 #: /16x9/Variables.xml
 msgctxt "#31153"
 msgid "PVR channels"
-msgstr ""
+msgstr "Canales PVR"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31154"
 msgid "Movies and TV shows"
-msgstr ""
+msgstr "Películas y programas de TV"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31155"
 msgid "Video and music add-ons"
-msgstr ""
+msgstr "Addons de vídeo y música"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31156"
 msgid "Weather icon"
-msgstr ""
+msgstr "Icono de clima"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31157"
 msgid "Nofocus text"
-msgstr ""
+msgstr "Texto no seleccionado"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31158"
 msgid "Nofocus icon"
-msgstr ""
+msgstr "Icono no seleccionado"
 
 #: /16x9/SkinSettings.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31159"
 msgid "Now playing progress"
-msgstr ""
+msgstr "Progreso reproduciendo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31160"
 msgid "Top bar / Main menu bars"
-msgstr ""
+msgstr "Barra superior / Barras del menú principal"
 
 #: 31160 /16x9/Includes_CustomSelect.xml
 msgctxt "#31161"
 msgid "Extended info"
-msgstr ""
+msgstr "Información extendida"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31162"
 msgid "Character art"
-msgstr ""
+msgstr "Arte de caracteres"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31163"
 msgid "Prefer info"
-msgstr ""
+msgstr "Preferir información"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31164"
 msgid "Blur background"
-msgstr ""
+msgstr "Difuminar fondo"
 
 #: /16x9/Variables.xml /16x9/Includes_CustomSelect.xml
 msgctxt "#31165"
 msgid "Clear art"
-msgstr ""
+msgstr "Clear art"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31166"
 msgid "Replace play with cinema mode"
-msgstr ""
+msgstr "Reemplazar reproducir con modo cine"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31167"
@@ -1009,207 +1013,207 @@ msgstr ""
 #: /16x9/Variables.xml
 msgctxt "#31198"
 msgid "Forward"
-msgstr ""
+msgstr "Adelantar"
 
 #: /16x9/Variables.xml
 msgctxt "#31199"
 msgid "Rewind"
-msgstr ""
+msgstr "Rebobinar"
 
 #: /16x9/Variables.xml
 msgctxt "#31200"
 msgid "Internet stream"
-msgstr ""
+msgstr "Flujo de internet"
 
 #: /16x9/Variables.xml
 msgctxt "#31201"
 msgid "Landscape"
-msgstr ""
+msgstr "Apaisado"
 
 #: /16x9/Variables.xml
 msgctxt "#31202"
 msgid "Clear logo"
-msgstr ""
+msgstr "Clear logo"
 
 #: /16x9/Variables.xml
 msgctxt "#31203"
 msgid "Portrait"
-msgstr ""
+msgstr "Retrato"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31204"
 msgid "Recently released"
-msgstr ""
+msgstr "Estrenadas recientemente"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31205"
 msgid "Recommended"
-msgstr ""
+msgstr "Recomendado"
 
 #: /shortcuts/overrides.xml
 msgctxt "#31206"
 msgid "Most played"
-msgstr ""
+msgstr "Más reproducidas"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31207"
 msgid "Position"
-msgstr ""
+msgstr "Posición"
 
 #: /16x9/Variables.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31208"
 msgid "Bottom"
-msgstr ""
+msgstr "Abajo"
 
 #: /16x9/Variables.xml /shortcuts/overrides.xml
 msgctxt "#31209"
 msgid "Top"
-msgstr ""
+msgstr "Arriba"
 
 #: /16x9/Variables.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31210"
 msgid "Big"
-msgstr ""
+msgstr "Grande"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31211"
 msgid "Movie/TV show info"
-msgstr ""
+msgstr "Info Película/Programa de TV"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31212"
 msgid "Big list"
-msgstr ""
+msgstr "Lista grande"
 
 #: /16x9/View_050_PosterList.xml /16x9/Custom_1115_ViewSettings.xml /16x9/Includes_MediaFlags.xml
 msgctxt "#31213"
 msgid "Poster list"
-msgstr ""
+msgstr "Lista de carteles"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31214"
 msgid "Reflect"
-msgstr ""
+msgstr "Reflejar"
 
 #: /16x9/View_051_SimpleList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31215"
 msgid "Simple list"
-msgstr ""
+msgstr "Lista simple"
 
 #: /16x9/View_501_BigSimpleList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31216"
 msgid "Big simple list"
-msgstr ""
+msgstr "Lista simple grande"
 
 #: /16x9/View_052_TwinList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31217"
 msgid "Twin list"
-msgstr ""
+msgstr "Listas gemelas"
 
 #: /16x9/View_502_BigTwinList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31218"
 msgid "Big twin list"
-msgstr ""
+msgstr "Listas gemelas grandes"
 
 #: /16x9/View_053_InfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31219"
 msgid "Info list 1"
-msgstr ""
+msgstr "Lista info 1"
 
 #: /16x9/View_503_BigInfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31220"
 msgid "Big info list 1"
-msgstr ""
+msgstr "Lista info 1 grande"
 
 #: /16x9/View_054_InfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31221"
 msgid "Info list 2"
-msgstr ""
+msgstr "Lista info 2"
 
 #: /16x9/View_504_BigInfoList1.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31222"
 msgid "Big info list 2"
-msgstr ""
+msgstr "Lista info 2 grande"
 
 #: /16x9/View_55_LowList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31223"
 msgid "Low list"
-msgstr ""
+msgstr "Lista baja"
 
 #: /16x9/View_505_LowList.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31224"
 msgid "Big low list"
-msgstr ""
+msgstr "Lista baja grande"
 
 #: /16x9/View_56_3Panel.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31225"
 msgid "3 panel"
-msgstr ""
+msgstr "3 paneles"
 
 #: /16x9/View_506_Big3Panel.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31226"
 msgid "Big 3 panel"
-msgstr ""
+msgstr "3 paneles grandes"
 
 #: /16x9/Variables.xml
 msgctxt "#31227"
 msgid "Premiered"
-msgstr ""
+msgstr "Estrenado"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31228"
 msgid "Video preview window"
-msgstr ""
+msgstr "Ventana de previsualización de vídeo"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31229"
 msgid "Icon size"
-msgstr ""
+msgstr "Tamaño de iconos"
 
 #: /16x9/View_553_ShowCase.xml
 msgctxt "#31230"
 msgid "Showcase"
-msgstr ""
+msgstr "Escaparate"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31231"
 msgid "2 thumbs"
-msgstr ""
+msgstr "2 miniaturas"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31232"
 msgid "4 thumbs"
-msgstr ""
+msgstr "4 miniaturas"
 
 #: /16x9/View_57_3PanelSquare.xml /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31233"
 msgid "3 panel square"
-msgstr ""
+msgstr "3 paneles cuadrados"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31234"
 msgid "Media flags"
-msgstr ""
+msgstr "Banderas de contenido"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31235"
 msgid "Small icons"
-msgstr ""
+msgstr "Iconos pequeños"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31236"
 msgid "Album case"
-msgstr ""
+msgstr "Funda del álbum"
 
 #: /16x9/Includes_MediaMenu.xml
 msgctxt "#31237"
 msgid "Video case"
-msgstr ""
+msgstr "Funda del vídeo"
 
 #: /16x9/View_051_SimpleList.xml
 msgctxt "#31238"
 msgid "Cover list"
-msgstr ""
+msgstr "Lista de portadas"
 
 #: /16x9/Custom_1115_ViewSettings.xml
 msgctxt "#31239"
