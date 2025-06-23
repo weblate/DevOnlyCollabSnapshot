@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-06-17 22:51+0000\n"
+"PO-Revision-Date: 2025-06-24 07:29+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/"
 "kodi-add-ons-skins/skin-madnox/es_es/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12.1\n"
+"X-Generator: Weblate 5.12.2\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml /16x9/Custom_1100_TextViewer.xml /16x9/script-skin_helper_service-ColorPicker.xml
 msgctxt "#31000"
@@ -858,57 +858,57 @@ msgstr "Reemplazar reproducir con modo cine"
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31167"
 msgid "Library backgrounds"
-msgstr ""
+msgstr "Fondos de colección"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31168"
 msgid "Tool tips"
-msgstr ""
+msgstr "Información sobre herramientas"
 
 #: /16x9/Includes_MediaMenu.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31169"
 msgid "Music info"
-msgstr ""
+msgstr "Información de música"
 
 #: /16x9/Includes_MediaMenu.xml /16x9/Custom_1110_CustomSelectContainer.xml
 msgctxt "#31170"
 msgid "Audio info"
-msgstr ""
+msgstr "Información de audio"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31171"
 msgid "Glass"
-msgstr ""
+msgstr "Cristal"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Variables.xml
 msgctxt "#31172"
 msgid "CD clear"
-msgstr ""
+msgstr "CD clear"
 
 #: /16x9/Variables.xml /shortcuts/mainmenu.DATA.xml /shortcuts/overrides.xml
 msgctxt "#31173"
 msgid "Live TV"
-msgstr ""
+msgstr "TV en directo"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31174"
 msgid "Disabled text"
-msgstr ""
+msgstr "Texto desactivado"
 
 #: /16x9/SkinSettings.xml
 msgctxt "#31175"
 msgid "Default texture"
-msgstr ""
+msgstr "Textura por defecto"
 
 #: 31175 /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31176"
 msgid "case"
-msgstr ""
+msgstr "mayúsculas y minúsculas"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31177"
 msgid "Visualisation music info"
-msgstr ""
+msgstr "Información de visualización de música"
 
 #: /16x9/Includes_CustomSelect.xml /16x9/Includes_MediaMenu.xml
 msgctxt "#31178"
