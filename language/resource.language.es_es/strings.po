@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-01-27 09:13+0000\n"
+"PO-Revision-Date: 2026-03-31 11:13+0000\n"
 "Last-Translator: Alfonso Cachero <alfonso.cachero@gmail.com>\n"
 "Language-Team: Spanish (Spain) <https://kodi.weblate.cloud/projects/kodi-add-"
 "ons-skins/skin-madnox/es_es/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.2\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: /16x9/DialogAddonSettings.xml /16x9/Variables.xml /16x9/DialogTextViewer.xml /16x9/Custom_1100_TextViewer.xml /16x9/script-skin_helper_service-ColorPicker.xml
 msgctxt "#31000"
@@ -1553,7 +1553,7 @@ msgstr "Aplicar"
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31306"
 msgid "TV Show season cover background"
-msgstr "Fondo de portada de temporada de Serie de TV"
+msgstr "Fondo de portada de temporada de Programa de TV"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31307"
@@ -1648,7 +1648,7 @@ msgstr "Caja de Película/Episodio"
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31325"
 msgid "Movie/TV show case"
-msgstr "Caja de Película/Serie de TV"
+msgstr "Caja de Película/Programa de TV"
 
 #: /16x9/Includes_CustomSelect.xml
 msgctxt "#31326"
@@ -1733,7 +1733,7 @@ msgstr "Siguiente episodio"
 #: /16x9/Includes_Temp.xml
 msgctxt "#31342"
 msgid "Movies and TV Shows starring"
-msgstr "Películas y Series de TV protagonizadas"
+msgstr "Películas y Programas de TV protagonizadas"
 
 #: /16x9/Includes_Temp.xml
 msgctxt "#31343"
@@ -1858,7 +1858,7 @@ msgstr "Películas protagonizadas"
 #: /16x9/Includes_InfoDialogs.xml
 msgctxt "#31367"
 msgid "TV Shows starring"
-msgstr "Series de TV protagonizadas"
+msgstr "Programas de TV protagonizadas"
 
 #: /16x9/script-embuary-video.xml
 msgctxt "#31368"
@@ -2107,8 +2107,8 @@ msgstr ""
 msgctxt "#31928"
 msgid "Shows plot outline for tv shows and movies if available, otherwise will display the default plot."
 msgstr ""
-"Muestra el argumento para las series y películas si esta disponible. Si no, "
-"mostrará un argumento por defecto."
+"Muestra el argumento para los programas y películas si está disponible. Si "
+"no, mostrará el argumento por defecto."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31929"
@@ -2240,15 +2240,15 @@ msgstr ""
 msgctxt "#31952"
 msgid "Install coloured movie genre icons for movies and tv shows."
 msgstr ""
-"Instalar iconos en color de géneros de películas para las películas y series "
-"de TV."
+"Instalar iconos en color de géneros de películas para las películas y "
+"programas de TV."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31953"
 msgid "Install black and white movie genre icons for movies and tv shows."
 msgstr ""
 "Instalar iconos en blanco y negro de géneros de películas para las películas "
-"y series de TV."
+"y programas de TV."
 
 #: /16x9/Includes_Settings.xml
 msgctxt "#31954"
@@ -2341,5 +2341,5 @@ msgstr "Reproducir el siguiente episodio automáticamente."
 msgctxt "#31969"
 msgid "Play themes while navigating TV Shows, Movies and Music Videos."
 msgstr ""
-"Reproducir sintonías mientras se navega por Series de TV, Películas o Vídeos "
-"Musicales."
+"Reproducir sintonías mientras se navega por Programas de TV, Películas o "
+"Vídeos Musicales."
